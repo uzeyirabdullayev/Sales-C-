@@ -1,0 +1,14 @@
+C:\Users\uzayirna\source\repos\Sales\Sales\obj\Debug\Sales.csprojResolveAssemblyReference.cache
+C:\Users\uzayirna\source\repos\Sales\Sales\obj\Debug\Sales.csproj.CoreCompileInputs.cache
+C:\Users\uzayirna\source\repos\Sales\Sales\bin\Debug\Sales.exe.config
+C:\Users\uzayirna\source\repos\Sales\Sales\bin\Debug\Sales.exe
+C:\Users\uzayirna\source\repos\Sales\Sales\bin\Debug\Sales.pdb
+C:\Users\uzayirna\source\repos\Sales\Sales\obj\Debug\Sales.exe
+C:\Users\uzayirna\source\repos\Sales\Sales\obj\Debug\Sales.pdb
+C:\Users\Üzeyir\Desktop\Sales\Sales\bin\Debug\Sales.exe.config
+C:\Users\Üzeyir\Desktop\Sales\Sales\bin\Debug\Sales.exe
+C:\Users\Üzeyir\Desktop\Sales\Sales\bin\Debug\Sales.pdb
+C:\Users\Üzeyir\Desktop\Sales\Sales\obj\Debug\Sales.csprojAssemblyReference.cache
+C:\Users\Üzeyir\Desktop\Sales\Sales\obj\Debug\Sales.csproj.CoreCompileInputs.cache
+C:\Users\Üzeyir\Desktop\Sales\Sales\obj\Debug\Sales.exe
+C:\Users\Üzeyir\Desktop\Sales\Sales\obj\Debug\Sales.pdb
